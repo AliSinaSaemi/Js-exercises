@@ -1,0 +1,5 @@
+Compare the triples
+very big sum
+Staircase
+Plus minus
+Diagonal Differece
